@@ -60,7 +60,7 @@
         android:layout_marginLeft="0dp"
         android:layout_marginTop="0dp"
         android:gravity="center_vertical"
-        android:text="Everyday 10am-10pm"
+        android:text="@string/text_hours"
         android:textSize="18sp"
         app:layout_constraintLeft_toLeftOf="@+id/text_view_phone"
         app:layout_constraintTop_toTopOf="@+id/image_view_hours" />

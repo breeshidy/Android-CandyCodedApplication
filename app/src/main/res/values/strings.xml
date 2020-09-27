@@ -3,4 +3,5 @@
     <string name="products_title">Products</string>
     <string name="text_view_address">618 E South St Orlando, FL</string>
     <string name="text_view_phone_num">(012)345-6789</string>
+    <string name="text_hours">Everyday 10am-10pm</string>
 </resources>
